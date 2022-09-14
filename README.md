@@ -2,7 +2,7 @@
 
 # Background 
 There are four variables used to describe the three species of Iris in the dataset. Sepal Width, Sepal Length, Petal Length, and Petal Width are the features used to distinguish the species ( <em>Iris setosa, Iris, viginica, and Iris versicolor</em>) 
-<img src="https://rpubs.com/vidhividhi/irisdataeda"/>
+<img src="https://miro.medium.com/max/700/0*Uw37vrrKzeEWahdB"/>
 # Objective
 This project's purpose is to demonstrate ability to perform a preliminary investigations of the Iris data in order to discover trends, anomalies, check assumptions with the help of statistical insight and graphic representations. 
 
