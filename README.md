@@ -17,9 +17,13 @@ Downloaded the [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/ir
 
 # Analysis
 ![count and proportion by species](https://user-images.githubusercontent.com/99365065/190040728-920113b7-5431-4d9e-b88b-73787a186f44.png)
-![count by species](https://user-images.githubusercontent.com/99365065/190040730-f49ad235-3a27-4836-b86d-978213d4ee1d.png)
 ![describe_by](https://user-images.githubusercontent.com/99365065/190040731-42b33557-73ca-4424-b925-e273d9b603a8.png)
-![glimpse](https://user-images.githubusercontent.com/99365065/190040733-73c91098-fe00-40cd-b7f1-020825b1a746.png)
+![summarise_petalleng](https://user-images.githubusercontent.com/99365065/190040802-8e87eebd-65bf-4926-8240-3e697d3bf589.png)
+![summarise_petalwidth](https://user-images.githubusercontent.com/99365065/190040804-1d1adb26-e08a-484b-b12b-b83c6bf998b1.png)
+![summarise_sepalleng](https://user-images.githubusercontent.com/99365065/190040805-df8a390f-73ad-4131-8897-9d319fc877a4.png)
+![summarise_sepalwidth](https://user-images.githubusercontent.com/99365065/190040806-f218170b-f7aa-4ddf-8919-e4291979cbe1.png)
+![summary](https://user-images.githubusercontent.com/99365065/190040807-f614383d-761a-4a4d-abba-43b911c3d3b9.png)
+![skim_without_charts](https://user-images.githubusercontent.com/99365065/190040810-3811b371-67e1-43e3-a67c-65eda8943dec.png)
 
 
 # Visualization
