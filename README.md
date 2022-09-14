@@ -51,7 +51,7 @@ Downloaded the [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/ir
 
 ![Sepal_leng vs Sepal width by species](https://user-images.githubusercontent.com/99365065/190041239-261a1027-500c-49f3-b353-2d51c0952da7.png)
 
-![Count Size by Species](https://user-images.githubusercontent.com/99365065/190041246-bed24108-1cfc-4c50-b3f3-bfe3c2692d6c.png)
+![Count size by species](https://user-images.githubusercontent.com/99365065/190043249-06d69c63-f371-42bf-a7fe-71a6cd2f756d.png)
 
 
 # Observations
