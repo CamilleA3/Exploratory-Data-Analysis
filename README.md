@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis: Using statistics to gain insight and create visualizations about three species of flower
 
 # Background 
-There are four variables used to describe the three species of Iris in the dataset. Sepal Width, Sepal Length, Petal Length, and Petal Width are the features used to distinguish the species ( <em>Iris setosa, Iris, viginica, and Iris versicolor</em>) 
+There are four variables used to describe the three species of Iris in the dataset. Sepal Width, Sepal Length, Petal Length, and Petal Width are the features used to distinguish the species ( <em>Iris setosa, Iris, viginica,</em> and <em> Iris versicolor</em>) 
 <p align="center"> <img src="https://miro.medium.com/max/700/0*Uw37vrrKzeEWahdB"/> </p>
 
 # Objective
