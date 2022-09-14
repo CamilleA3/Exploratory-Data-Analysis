@@ -41,7 +41,8 @@ Downloaded the [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/ir
 
 
 # Visualization
-Figure 1 ![Comparing Petal_leng vs Petal_width by Iris](https://user-images.githubusercontent.com/99365065/190041176-77778fd1-5bb6-4d61-be9b-7024576f1485.png)
+Figure 1 
+![Comparing Petal_leng vs Petal_width by Iris](https://user-images.githubusercontent.com/99365065/190041176-77778fd1-5bb6-4d61-be9b-7024576f1485.png)
 
 Figure 2 ![Sepal_leng vs Sepal width by species](https://user-images.githubusercontent.com/99365065/190041185-b95e3cbb-2106-419d-b272-497f9de26ecf.png)
 
