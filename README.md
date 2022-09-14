@@ -55,3 +55,9 @@ Downloaded the [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/ir
 
 
 # Observations
+- There was a total of 5 columns (sepal_length, sepal_width, petal_length, petal_width, species), 150 rows of unique data values
+- For the mean dimensions, <em>Iris virginica</em> had the greatest average for all four features, followed by <em>Iris versicolor</em>, and lastly <em>Iris setosa<em>
+- In the data frame there are equal frequencies (50) and proportions (0.33) of each species
+-
+-
+-
