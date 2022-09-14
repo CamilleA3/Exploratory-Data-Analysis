@@ -16,19 +16,19 @@ This project's purpose is to demonstrate ability to perform a preliminary invest
 Downloaded the [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset) from Kaggle that contains information about petal and sepal dimensions for three species of Iris. 
 
 # Analysis
-Figure 1 ![count and proportion by species](https://user-images.githubusercontent.com/99365065/190040728-920113b7-5431-4d9e-b88b-73787a186f44.png)
+![count and proportion by species](https://user-images.githubusercontent.com/99365065/190040728-920113b7-5431-4d9e-b88b-73787a186f44.png)
 
 
-Figure 1 ![describe_by](https://user-images.githubusercontent.com/99365065/190040731-42b33557-73ca-4424-b925-e273d9b603a8.png)
+![describe_by](https://user-images.githubusercontent.com/99365065/190040731-42b33557-73ca-4424-b925-e273d9b603a8.png)
 
 
-Figure 1 ![summarise_petalleng](https://user-images.githubusercontent.com/99365065/190040802-8e87eebd-65bf-4926-8240-3e697d3bf589.png)
+![summarise_petalleng](https://user-images.githubusercontent.com/99365065/190040802-8e87eebd-65bf-4926-8240-3e697d3bf589.png)
 
 
-Figure 1 ![summarise_petalwidth](https://user-images.githubusercontent.com/99365065/190040804-1d1adb26-e08a-484b-b12b-b83c6bf998b1.png)
+![summarise_petalwidth](https://user-images.githubusercontent.com/99365065/190040804-1d1adb26-e08a-484b-b12b-b83c6bf998b1.png)
 
 
-Figure 1 ![summarise_sepalleng](https://user-images.githubusercontent.com/99365065/190040805-df8a390f-73ad-4131-8897-9d319fc877a4.png)
+![summarise_sepalleng](https://user-images.githubusercontent.com/99365065/190040805-df8a390f-73ad-4131-8897-9d319fc877a4.png)
 
 
 ![summarise_sepalwidth](https://user-images.githubusercontent.com/99365065/190040806-f218170b-f7aa-4ddf-8919-e4291979cbe1.png)
@@ -41,17 +41,17 @@ Figure 1 ![summarise_sepalleng](https://user-images.githubusercontent.com/993650
 
 
 # Visualization
-![Comparing Petal_leng vs Petal_width by Iris](https://user-images.githubusercontent.com/99365065/190041176-77778fd1-5bb6-4d61-be9b-7024576f1485.png)
+Figure 1 ![Comparing Petal_leng vs Petal_width by Iris](https://user-images.githubusercontent.com/99365065/190041176-77778fd1-5bb6-4d61-be9b-7024576f1485.png)
 
-![Sepal_leng vs Sepal width by species](https://user-images.githubusercontent.com/99365065/190041185-b95e3cbb-2106-419d-b272-497f9de26ecf.png)
+Figure 2 ![Sepal_leng vs Sepal width by species](https://user-images.githubusercontent.com/99365065/190041185-b95e3cbb-2106-419d-b272-497f9de26ecf.png)
 
-![Sepal Dimensions by Species_FACET](https://user-images.githubusercontent.com/99365065/190041198-3d5dd4ab-b317-457a-8eb5-f33823088da7.png)
+Figure 3 ![Sepal Dimensions by Species_FACET](https://user-images.githubusercontent.com/99365065/190041198-3d5dd4ab-b317-457a-8eb5-f33823088da7.png)
 
-![Petal Dimensions by Species_FACET](https://user-images.githubusercontent.com/99365065/190041226-3fb8348d-4641-40c9-b4a1-279b1e0da2ce.png)
+Figure 4 ![Petal Dimensions by Species_FACET](https://user-images.githubusercontent.com/99365065/190041226-3fb8348d-4641-40c9-b4a1-279b1e0da2ce.png)
 
-![Sepal_leng vs Sepal width by species](https://user-images.githubusercontent.com/99365065/190041239-261a1027-500c-49f3-b353-2d51c0952da7.png)
+Figure 5 ![Sepal_leng vs Sepal width by species](https://user-images.githubusercontent.com/99365065/190041239-261a1027-500c-49f3-b353-2d51c0952da7.png)
 
-![Count size by species](https://user-images.githubusercontent.com/99365065/190043249-06d69c63-f371-42bf-a7fe-71a6cd2f756d.png)
+Figure 6 ![Count size by species](https://user-images.githubusercontent.com/99365065/190043249-06d69c63-f371-42bf-a7fe-71a6cd2f756d.png)
 
 
 # Observations
