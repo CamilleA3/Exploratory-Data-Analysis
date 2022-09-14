@@ -41,8 +41,7 @@ Downloaded the [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/ir
 
 
 # Visualization
-Figure 1 
-![Comparing Petal_leng vs Petal_width by Iris](https://user-images.githubusercontent.com/99365065/190041176-77778fd1-5bb6-4d61-be9b-7024576f1485.png)
+Figure 1 ![Comparing Petal_leng vs Petal_width by Iris](https://user-images.githubusercontent.com/99365065/190041176-77778fd1-5bb6-4d61-be9b-7024576f1485.png)
 
 Figure 2 ![Sepal_leng vs Sepal width by species](https://user-images.githubusercontent.com/99365065/190041185-b95e3cbb-2106-419d-b272-497f9de26ecf.png)
 
@@ -59,6 +58,6 @@ Figure 6 ![Count size by species](https://user-images.githubusercontent.com/9936
 - There was a total of 5 columns (sepal_length, sepal_width, petal_length, petal_width, species), 150 rows of unique data values
 - For the mean dimensions, <em>Iris virginica</em> had the greatest average for all four features, followed by <em>Iris versicolor</em>, and lastly <em>Iris setosa<em>
 - In the data frame there are equal frequencies (50) and proportions (0.33) of each species
--
--
+- Figure 1 reflects a significant difference in size amongst the species. <em>Iris versicolor</em> and <em>Iris virginica</em> had larger petal dimensions than <em>Iris setosa</em>
+- In Figure 2, <em>Iris setosa</em> had a larger sepal width than the other two species and a lower sepal length. <em>Iris virginica</em> and <em>Iris versicolor</em> had very similar sepal dimensions with <em>Iris virginica's</em> dimensions being slightly larger in size 
 -
