@@ -60,4 +60,3 @@ Figure 6 ![Count size by species](https://user-images.githubusercontent.com/9936
 - In the data frame there are equal frequencies (50) and proportions (0.33) of each species
 - Figure 1 reflects a significant difference in size amongst the species. <em>Iris versicolor</em> and <em>Iris virginica</em> had larger petal dimensions than <em>Iris setosa</em>
 - In Figure 2, <em>Iris setosa</em> had a larger sepal width than the other two species and a lower sepal length. <em>Iris virginica</em> and <em>Iris versicolor</em> had very similar sepal dimensions with <em>Iris virginica's</em> dimensions being slightly larger in size 
--
