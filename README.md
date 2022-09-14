@@ -16,19 +16,19 @@ This project's purpose is to demonstrate ability to perform a preliminary invest
 Downloaded the [Iris dataset](https://www.kaggle.com/datasets/himanshunakrani/iris-dataset) from Kaggle that contains information about petal and sepal dimensions for three species of Iris. 
 
 # Analysis
-![count and proportion by species](https://user-images.githubusercontent.com/99365065/190040728-920113b7-5431-4d9e-b88b-73787a186f44.png)
+Figure 1 ![count and proportion by species](https://user-images.githubusercontent.com/99365065/190040728-920113b7-5431-4d9e-b88b-73787a186f44.png)
 
 
-![describe_by](https://user-images.githubusercontent.com/99365065/190040731-42b33557-73ca-4424-b925-e273d9b603a8.png)
+Figure 1 ![describe_by](https://user-images.githubusercontent.com/99365065/190040731-42b33557-73ca-4424-b925-e273d9b603a8.png)
 
 
-![summarise_petalleng](https://user-images.githubusercontent.com/99365065/190040802-8e87eebd-65bf-4926-8240-3e697d3bf589.png)
+Figure 1 ![summarise_petalleng](https://user-images.githubusercontent.com/99365065/190040802-8e87eebd-65bf-4926-8240-3e697d3bf589.png)
 
 
-![summarise_petalwidth](https://user-images.githubusercontent.com/99365065/190040804-1d1adb26-e08a-484b-b12b-b83c6bf998b1.png)
+Figure 1 ![summarise_petalwidth](https://user-images.githubusercontent.com/99365065/190040804-1d1adb26-e08a-484b-b12b-b83c6bf998b1.png)
 
 
-![summarise_sepalleng](https://user-images.githubusercontent.com/99365065/190040805-df8a390f-73ad-4131-8897-9d319fc877a4.png)
+Figure 1 ![summarise_sepalleng](https://user-images.githubusercontent.com/99365065/190040805-df8a390f-73ad-4131-8897-9d319fc877a4.png)
 
 
 ![summarise_sepalwidth](https://user-images.githubusercontent.com/99365065/190040806-f218170b-f7aa-4ddf-8919-e4291979cbe1.png)
